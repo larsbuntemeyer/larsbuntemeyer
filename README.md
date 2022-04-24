@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @larsbuntemeyer
-- 👀 I’m interested in geoscience.
+- 👀 I’m interested in geoscience and FAIR research software engineering.
 - 🌱 I’m currently learning about climate statistics.
 - 💞️ I’m looking to collaborate on WCRP-CORDEX analysis.
 - 📫 How to reach me: lars.buntemeyer@hereon.de
