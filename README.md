@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @larsbuntemeyer
-- 👀 I’m interested in geoscience and FAIR research software engineering.
+- 👀 I’m interested in geoscience and [FAIR research software engineering](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg).
 - 🌱 I’m currently learning about climate statistics.
-- 💞️ I’m looking to collaborate on WCRP-CORDEX analysis.
+- 💞️ I’m looking to collaborate on [WCRP-CORDEX python codes](https://py-cordex.readthedocs.io).
 - 📫 How to reach me: lars.buntemeyer@hereon.de
 
 <!---
