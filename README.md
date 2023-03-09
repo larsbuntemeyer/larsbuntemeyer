@@ -6,8 +6,8 @@
 
 - 👋 Hi, I’m @larsbuntemeyer
 - 👀 I’m interested in [open science](https://the-turing-way.netlify.app/reproducible-research/open.html), [reproducible geoscience](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html) and [FAIR research software engineering](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg).
-- 🌱 I’m currently learning about [uncertainties in climate projections](https://github.com/euro-cordex/py-cordex/issues/33).
-- 💞️ I’m looking to collaborate on [WCRP-CORDEX python codes](https://py-cordex.readthedocs.io).
+- 🌱 I’m currently working in the [NUKLEUS project](https://www.fona.de/de/massnahmen/foerdermassnahmen/RegIKlim/nukleus.php).
+- 💞️ I’m looking to collaborate on [WCRP-CORDEX python codes](https://py-cordex.readthedocs.io) and [cmorization](https://wcrp-cordex.github.io/cordex-cmip6-cmor-tables/cmor-examples.html).
 - 📫 How to reach me: lars.buntemeyer@hereon.de
 
 <!---
