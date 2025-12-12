@@ -12,8 +12,6 @@
 - 💞️ I’m looking to collaborate on [WCRP-CORDEX python codes](https://py-cordex.readthedocs.io) and [cmorization](https://wcrp-cordex.github.io/cordex-cmip6-cmor-tables/cmor-examples.html).
 - 📫 How to reach me: lars.buntemeyer@hereon.de
 
-![github stats](https://github-readme-stats.vercel.app/api?username=larsbuntemeyer&show_icons=true)
-
 <!---
 larsbuntemeyer/larsbuntemeyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
